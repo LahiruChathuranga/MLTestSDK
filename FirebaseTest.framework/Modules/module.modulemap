@@ -1,0 +1,11 @@
+framework module FirebaseTest {
+  umbrella header "FirebaseTest.h"
+
+  export *
+  module * { export * }
+}
+
+module FirebaseTest.Swift {
+    header "FirebaseTest-Swift.h"
+    requires objc
+}
