@@ -58,7 +58,7 @@
 		</data>
 		<key>Headers/FirebaseTest-Swift.h</key>
 		<data>
-		VUue6VzuKTRUNpJxRBfWklY0Oa4=
+		InNwkMbg7p8zz6qVmLOPu39eB+U=
 		</data>
 		<key>Headers/FirebaseTest.h</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		stcxEco6qSWTu2xZID731tFeHD0=
+		wBxVGbRsncL48VV2yZEjHpuSQa0=
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		iqQew2s+vvCUbaGnNlzabnRhY7I=
+		MTszljysCP4uT1aTeplA9I1APWs=
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		stcxEco6qSWTu2xZID731tFeHD0=
+		wBxVGbRsncL48VV2yZEjHpuSQa0=
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		iqQew2s+vvCUbaGnNlzabnRhY7I=
+		MTszljysCP4uT1aTeplA9I1APWs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -194,7 +194,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ErSxREC0wHqjEOCkTU5bf49To+djtAkCaGFQi3gAkHI=
+			Yu9HWD46FHuFMBrTpAPLdFaJAiwLxPYqPB7bhjESdf4=
 			</data>
 		</dict>
 		<key>Headers/FirebaseTest.h</key>
@@ -215,14 +215,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3eEZySPV5EcnqxITzlgz0ONPqIMFa25GyqlF7k1fD3Q=
+			97xAVJ7YDXpFB7X5qxwyozuAztZN1/AGqYLUnRwLWaE=
 			</data>
 		</dict>
 		<key>Modules/FirebaseTest.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JJXxfm5XCj00uTzSXonve3l0P9bUtyZziFIDO1w3hWY=
+			X6ANuTt7kHIDNboNiJTNPKO0aWqayhYTBiO3uxNnJjk=
 			</data>
 		</dict>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftdoc</key>
@@ -236,14 +236,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3eEZySPV5EcnqxITzlgz0ONPqIMFa25GyqlF7k1fD3Q=
+			97xAVJ7YDXpFB7X5qxwyozuAztZN1/AGqYLUnRwLWaE=
 			</data>
 		</dict>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JJXxfm5XCj00uTzSXonve3l0P9bUtyZziFIDO1w3hWY=
+			X6ANuTt7kHIDNboNiJTNPKO0aWqayhYTBiO3uxNnJjk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

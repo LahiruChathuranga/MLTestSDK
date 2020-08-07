@@ -186,6 +186,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import UIKit;
 #endif
 
 #pragma clang diagnostic ignored "-Wproperty-attribute-mismatch"
@@ -202,6 +203,33 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma clang attribute push(__attribute__((external_source_symbol(language="Swift", defined_in="FirebaseTest",generated_declaration))), apply_to=any(function,enum,objc_interface,objc_category,objc_protocol))
 # pragma pop_macro("any")
 #endif
+
+@class UITouch;
+@class UIEvent;
+@class NSBundle;
+@class NSCoder;
+
+SWIFT_CLASS("_TtC12FirebaseTest6BaseVC")
+@interface BaseVC : UIViewController <UIImagePickerControllerDelegate, UINavigationControllerDelegate, UITextFieldDelegate, UITextViewDelegate>
+- (void)viewDidLoad;
+- (void)touchesBegan:(NSSet<UITouch *> * _Nonnull)touches withEvent:(UIEvent * _Nullable)event;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class UIImagePickerController;
+
+@interface BaseVC (SWIFT_EXTENSION(FirebaseTest))
+- (void)imagePickerControllerDidCancel:(UIImagePickerController * _Nonnull)picker;
+@end
+
+
+SWIFT_CLASS("_TtC12FirebaseTest6HomeVC")
+@interface HomeVC : BaseVC
+- (void)viewDidLoad;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
 
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop

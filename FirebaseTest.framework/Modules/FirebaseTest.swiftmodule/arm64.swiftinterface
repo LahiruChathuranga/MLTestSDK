@@ -8,3 +8,21 @@ import Foundation
 import Swift
 import UIKit
 import WebKit
+@objc @_inheritsConvenienceInitializers public class BaseVC : UIKit.UIViewController, UIKit.UIScrollViewDelegate, UIKit.UITextFieldDelegate, UIKit.UITextViewDelegate, UIKit.UIImagePickerControllerDelegate, UIKit.UINavigationControllerDelegate {
+  @objc override dynamic public func viewDidLoad()
+  @objc override dynamic public func touchesBegan(_ touches: Swift.Set<UIKit.UITouch>, with event: UIKit.UIEvent?)
+  @objc deinit
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+extension BaseVC {
+  @objc dynamic public func imagePickerControllerDidCancel(_ picker: UIKit.UIImagePickerController)
+}
+@objc @_inheritsConvenienceInitializers public class HomeVC : FirebaseTest.BaseVC {
+  public static let shared: FirebaseTest.HomeVC
+  @objc override dynamic public func viewDidLoad()
+  public func getImage()
+  @objc deinit
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
