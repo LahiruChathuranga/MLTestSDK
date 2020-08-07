@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   # ―――----------------------------------――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   s.name         = "FirebaseTest"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "FirebaseTest"
   s.description  = "MLKit with images"
   s.homepage     = "https://www.authnex.com"
@@ -18,6 +18,8 @@ Pod::Spec.new do |s|
   s.source       = { :http => '' }
 
   s.swift_version = '4.0'
+
+  s.static_framework = true
 
   s.dependency 'Firebase/MLVision', '6.25.0'
   s.dependency 'Firebase/MLVisionFaceModel', '6.25.0'
