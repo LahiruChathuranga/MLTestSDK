@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		wBxVGbRsncL48VV2yZEjHpuSQa0=
+		Zyg89xjDQ8Ell2Ngd7K3+yAtNSI=
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		tKhvf6FtoPrTpl0VP+0f79SsnRg=
+		Z+ZSBvjkrv1SB7ih9uWA7dKYR8w=
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		wBxVGbRsncL48VV2yZEjHpuSQa0=
+		Zyg89xjDQ8Ell2Ngd7K3+yAtNSI=
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		tKhvf6FtoPrTpl0VP+0f79SsnRg=
+		Z+ZSBvjkrv1SB7ih9uWA7dKYR8w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -215,14 +215,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			97xAVJ7YDXpFB7X5qxwyozuAztZN1/AGqYLUnRwLWaE=
+			Kd8HRIoJSMAIMsz6kZc74ehrS6pFvUZD2yizZjxlTeg=
 			</data>
 		</dict>
 		<key>Modules/FirebaseTest.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o7VoAo4AgIuAKMvtsEgKIK5nRTDRSWh75lsGFtxhCeQ=
+			YAJ6xsC6cwajjtKFnva/X/TCcESkw7nHdemnCH7VFrk=
 			</data>
 		</dict>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftdoc</key>
@@ -236,14 +236,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			97xAVJ7YDXpFB7X5qxwyozuAztZN1/AGqYLUnRwLWaE=
+			Kd8HRIoJSMAIMsz6kZc74ehrS6pFvUZD2yizZjxlTeg=
 			</data>
 		</dict>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			o7VoAo4AgIuAKMvtsEgKIK5nRTDRSWh75lsGFtxhCeQ=
+			YAJ6xsC6cwajjtKFnva/X/TCcESkw7nHdemnCH7VFrk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

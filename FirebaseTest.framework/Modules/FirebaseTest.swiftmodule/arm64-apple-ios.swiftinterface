@@ -21,7 +21,7 @@ extension BaseVC {
 @objc @_inheritsConvenienceInitializers public class HomeVC : FirebaseTest.BaseVC {
   public static let shared: FirebaseTest.HomeVC
   @objc override dynamic public func viewDidLoad()
-  public func getImage()
+  public func getImage(image: UIKit.UIImage)
   @objc deinit
   @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @objc required dynamic public init?(coder: Foundation.NSCoder)
