@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   # ―――----------------------------------――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   s.name         = "FirebaseTest"
-  s.version      = "0.0.7"
+  s.version      = "0.0.8"
   s.summary      = "FirebaseTest"
   s.description  = "MLKit with images"
   s.homepage     = "https://www.authnex.com"

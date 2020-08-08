@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		MTszljysCP4uT1aTeplA9I1APWs=
+		tKhvf6FtoPrTpl0VP+0f79SsnRg=
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		MTszljysCP4uT1aTeplA9I1APWs=
+		tKhvf6FtoPrTpl0VP+0f79SsnRg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -222,7 +222,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X6ANuTt7kHIDNboNiJTNPKO0aWqayhYTBiO3uxNnJjk=
+			o7VoAo4AgIuAKMvtsEgKIK5nRTDRSWh75lsGFtxhCeQ=
 			</data>
 		</dict>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftdoc</key>
@@ -243,7 +243,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X6ANuTt7kHIDNboNiJTNPKO0aWqayhYTBiO3uxNnJjk=
+			o7VoAo4AgIuAKMvtsEgKIK5nRTDRSWh75lsGFtxhCeQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
