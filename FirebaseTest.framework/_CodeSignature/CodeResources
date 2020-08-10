@@ -56,6 +56,10 @@
 		<data>
 		RxtbTN3LjpFChp3tmniX3KD+dsE=
 		</data>
+		<key>GoogleService-Info.plist</key>
+		<data>
+		GfI5IW2dWYr0xLdusvbD24EiZFY=
+		</data>
 		<key>Headers/FirebaseTest-Swift.h</key>
 		<data>
 		InNwkMbg7p8zz6qVmLOPu39eB+U=
@@ -66,7 +70,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JM/4Dl3PFtApK8SOW93rYxH1b1U=
+		gjyGSgbcVNHK9S+943tNYriGGwk=
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -74,11 +78,11 @@
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Zyg89xjDQ8Ell2Ngd7K3+yAtNSI=
+		qUYxcu5WoiTppdflhK7GkzsiVyA=
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Z+ZSBvjkrv1SB7ih9uWA7dKYR8w=
+		ldQSIAb6PCj48sGgPjJal/zqfEQ=
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -86,11 +90,11 @@
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		Zyg89xjDQ8Ell2Ngd7K3+yAtNSI=
+		qUYxcu5WoiTppdflhK7GkzsiVyA=
 		</data>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Z+ZSBvjkrv1SB7ih9uWA7dKYR8w=
+		ldQSIAb6PCj48sGgPjJal/zqfEQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -190,6 +194,13 @@
 			2pAlL0mzu5QuX4gBgKFFYfZpKW5/s+3s3quqi2u3gio=
 			</data>
 		</dict>
+		<key>GoogleService-Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WE+LUHwnxATzjFQjmQVMld5PRl0FfS42FmxDelCxYo0=
+			</data>
+		</dict>
 		<key>Headers/FirebaseTest-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -215,14 +226,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kd8HRIoJSMAIMsz6kZc74ehrS6pFvUZD2yizZjxlTeg=
+			WlD1dKMXTRMLd2TLde5ZcygHujjUtr3acaOiLVsn/I8=
 			</data>
 		</dict>
 		<key>Modules/FirebaseTest.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YAJ6xsC6cwajjtKFnva/X/TCcESkw7nHdemnCH7VFrk=
+			B0+W3IQFcIXg2nCm6+ksLVoNkzjlkyEJ3OCzGQzR48U=
 			</data>
 		</dict>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftdoc</key>
@@ -236,14 +247,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kd8HRIoJSMAIMsz6kZc74ehrS6pFvUZD2yizZjxlTeg=
+			WlD1dKMXTRMLd2TLde5ZcygHujjUtr3acaOiLVsn/I8=
 			</data>
 		</dict>
 		<key>Modules/FirebaseTest.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YAJ6xsC6cwajjtKFnva/X/TCcESkw7nHdemnCH7VFrk=
+			B0+W3IQFcIXg2nCm6+ksLVoNkzjlkyEJ3OCzGQzR48U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
